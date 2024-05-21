@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-roiszs",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roiszs/random-str-msg-roiszs.git"
+  },
+  "keywords": [],
+  "author": "Santiago Rodriguez Ibanez <santiagorrodriguez9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roiszs/random-str-msg-roiszs.git"
+  },
+  "homepage": "https://github.com/roiszs/random-str-msg-roiszs.git",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
